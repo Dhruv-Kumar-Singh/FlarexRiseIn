@@ -47,14 +47,8 @@ Shows how even simple contracts can be deployed on a real network.
 
 Replace the placeholder below with your contract address:
 
-**XXX**
+**Transaction used for deployment (for reference):  
+https://coston2-explorer.flare.network//tx/0x43bbb1073a6d418d88cc8815fdf596caae33fb4e537eed68472998646bbf3781**
 
-Transaction used for deployment (for reference):  
-https://coston2-explorer.flare.network//tx/0x43bbb1073a6d418d88cc8815fdf596caae33fb4e537eed68472998646bbf3781
 
 ---
-
-## 📜 Smart Contract Code
-
-```solidity
-//paste your code
